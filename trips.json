@@ -1,0 +1,24 @@
+[
+  {},
+  {
+    "title": "Goa Trip",
+    "hotel": "hotel Queen",
+    "hotelAddress": "mapusa",
+    "checkIn": "2026-03-03",
+    "checkOut": "2026-03-11",
+    "hotelContact": "8080-8686",
+    "hotelBudget": "9000",
+    "restaurant": "Navtara restuarant",
+    "restaurantAddress": "mapusa",
+    "foodNotes": "fish, curry",
+    "restaurantBudget": "8000",
+    "transport": "bus",
+    "transportBudget": "7000",
+    "attractions": "beach, temple",
+    "attractionNotes": "visit all temples",
+    "attractionsBudget": "8000",
+    "id": 1772472491095,
+    "username": "kanika",
+    "totalBudget": 32000
+  }
+]
