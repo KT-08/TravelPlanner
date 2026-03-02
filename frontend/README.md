@@ -1,4 +1,4 @@
-Travel Planner
+<h1>Travel Planner</h1>
 
 A simple web application to plan and manage trips. Users can sign up, log in, add trips with details like hotels, restaurants, transport, tourist attractions, and budget, and view or update their trips.
 
